@@ -1,7 +1,7 @@
 # KillorSort
 
 # Description
-This is a GUI application using Pyhunter by VonStruddle.
+This is a GUI  and a CLI application using Pyhunter by VonStruddle.
 
 # Instructions
 
@@ -17,7 +17,13 @@ Then just run the program:
 
 
 
-``` Python3 HUnterGUI.py ```
+``` Python3 HunterGUI.py ```
+
+for GUI Application
+
+``` python3 Hunter.py```
+
+for CLI Application
 
 
 ``` Enter the name of the website: <Website> ```
