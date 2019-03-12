@@ -5,10 +5,13 @@ This is a GUI application using Pyhunter by VonStruddle.
 
 # Instructions
 
-
 First import pyhunter by using the command:
 
 ``` pip3 install pyhunter ```
+
+Also grab the API key from Hunter.io
+
+Insert the API into the Hunter.py and HunterGUI.py
 
 Then just run the program:
 
