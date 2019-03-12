@@ -19,3 +19,8 @@ Then just run the program:
 
 ``` Enter the name of the website: <Website> ```
 
+This can save the emails acquired in either .txt or .csv format.
+
+
+
+If you can improve the application in any way that would be helpful  
