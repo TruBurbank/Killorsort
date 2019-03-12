@@ -41,7 +41,7 @@ class App(QMainWindow):
     @pyqtSlot()
     def Text(self):
         textboxValue = self.textbox.text()
-        hunter=PyHunter('683cd5a907cee5a8d1f545cd224e9d153d9ea069')
+        hunter=PyHunter('Enter key here')
         Temp=hunter.domain_search(textboxValue)
         Temp1=Temp['emails']
         for i in range (0,len(Temp1)):
@@ -58,7 +58,7 @@ class App(QMainWindow):
     @pyqtSlot()
     def spreadsheet(self):
         textboxValue = self.textbox.text()
-        hunter=PyHunter('683cd5a907cee5a8d1f545cd224e9d153d9ea069')
+        hunter=PyHunter('Enter key here')
         Temp=hunter.domain_search(textboxValue)
         Temp1=Temp['emails']
         for i in range (0,len(Temp1)):
