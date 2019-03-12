@@ -1,5 +1,5 @@
 from pyhunter import PyHunter
-from reverseip import ReverseIP as rip
+#from reverseip import ReverseIP as rip
 import os
 import csv
 import re
